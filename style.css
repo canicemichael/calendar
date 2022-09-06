@@ -21,6 +21,10 @@
     background-color: #222227;
     box-shadow: 0 0.3em 2em rgba(0, 0, 0, 0.4);
 }
+.counter-div{
+    width: 50%;
+    background-color: blue;
+}
 
 .month{
     width: 100%;
